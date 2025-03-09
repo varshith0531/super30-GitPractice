@@ -1,6 +1,4 @@
 
-
-
 # this is a sample markdown file. 
 # add your details here: 
 # sudheer kumar
@@ -10,5 +8,8 @@
 # BNAGENDRA
 # Sri teja Cheemakurthy
 ## Im from vijayawada
+# Nithin
+## Kodad
+
 
 
