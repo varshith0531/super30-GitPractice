@@ -8,18 +8,13 @@
 # BNAGENDRA
 # Sri teja Cheemakurthy
 ## Im from vijayawada
-
-## KATIKOLA KARTHIK
-## HYDERABAD
-
-
-
-
 # Varshith Yadavalli
 ## Khammam
 # Nithin
 ## Kodad
+## Sidharthaa
 # mahesh
 ## Hyderabad
 ## karthik katikola
 ## hyderabad
+
